@@ -1,0 +1,52 @@
+body { 
+
+}
+
+.titulo-principal{ 
+  padding-left:650px; /*margem a esquerda*/
+  color:#6a686b;
+}
+
+#banner {  
+    width: 45%; /*tamanho da imagem*/
+    margin-left: 420px;
+}
+
+.principal { 
+  background: linear-gradient(gray, white); /*cor de fundo*/
+  padding: 20px; /*margem da caixa*/
+} 
+.titulo-centralizado{ 
+     text-align:center; /*alinhamento de texto */
+}
+s
+p {  
+    text-align:center;/*alinhamento de textos*/
+}
+#missao {
+    font-size:30px /*tamnho da fonte*/
+}
+
+em {
+    color:hsl(280, 2%, 66%);
+}
+
+.beneficios {
+    background-image:linear-gradient(white, gray) ; /*degrade da imagem*/
+    padding: 20px;
+}
+
+ul{
+   display: inline-block; /*forma duas linhas*/
+   vertical-align: top; /*altura da lista*/
+   width: 20%;/*tamanho*/
+   margin-right:15%;/*margem a direita*/
+}
+
+.itens {
+   font-style:italic;
+   font-size:20px;
+}
+#beneficios {
+    width: 45%;
+}
